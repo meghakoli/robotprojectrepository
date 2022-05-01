@@ -3,6 +3,8 @@ Library    SeleniumLibrary
 Library    DateTime
 Library    BuiltIn
 *** Test Cases ***
+just for git check
+    log to console  new test added
 Print the current date
     print current date
 
